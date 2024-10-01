@@ -2,8 +2,8 @@
 
 A responsive web application that allows users to search for and explore movies. This project was built using React, leveraging The Movie Database (TMDb) API for movie data.
 
-![App Screenshot](./src/assets/images/Screenshot%202023-09-25%20010607.png)
-![App Screenshot](./src/assets/images/Screenshot%202023-09-25%20010639.png)
+![Capture](https://github.com/user-attachments/assets/d894ba43-168a-4cc9-9707-a59121c9a521)
+
 
 ## Features
 
@@ -13,10 +13,6 @@ A responsive web application that allows users to search for and explore movies.
 - User-friendly and intuitive interface.
 - Performance optimizations for quick loading.
 - Error handling and graceful fallbacks.
-
-## Demo
-
-[Live Demo](https://movie-app-rohith.netlify.app/)
 
 ## Getting Started
 
@@ -31,7 +27,7 @@ These instructions will help you set up and run the project on your local machin
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Rohith-Manjunath/React-Movie-App.git 
+   git clone https://github.com/MrTineth/react-movie-app.git 
 
 2.Change to the project directory:
 
